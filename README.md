@@ -1,9 +1,9 @@
-Of course! Here's a README for your GitHub repository, complete with emojis to make it stand out.
-
 🏦 Customer Churn Prediction with an ANN 🤖
+
 A project focused on predicting customer churn in a bank using an Artificial Neural Network (ANN). This model is built with TensorFlow and Keras to help identify customers who are likely to close their accounts.
 
 📊 Dataset
+
 This project uses the Churn_Modelling.csv dataset, which contains key customer information. The features used for prediction are:
 
 CreditScore 💳
